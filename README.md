@@ -15,6 +15,3 @@ To engage with the repository:
 ```sh
 git clone https://github.com/<your-username>/ML-at-Brno.git
 cd ML-at-Brno
-
-## Acknowledgement
-I would like to express my gratitude to the faculty BUT for their support and collaboration. A special thanks to ISEP for providing the opportunity for this international exchange program.
