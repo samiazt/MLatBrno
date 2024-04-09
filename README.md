@@ -1,7 +1,7 @@
 # ML at Brno
 
 This repository, is for my Machine Learning Projects during my 3 months exchange program at Brno University of Technology (BUT), Czech Republic.
-You can find here my `coursework/`, the exercises, assignments, and tutorial work assigned during the machine learning course and my `final_project/`.
+You can find here my exercises, and **Labs** assigned during the machine learning course and my **final_project**.
 
 ##Final Project
 The `final_project/` is a group project I worked on with my friend and colleague Clark ALOPH. Our project aimed to classify the number of persons in a room using 60 GHz signal transmission, applying Convolutional Neural Networks (CNNs) to interpret signal snapshots within the delay-Doppler domain.
