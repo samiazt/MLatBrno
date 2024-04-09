@@ -13,5 +13,5 @@ I would like to express my gratitude to the faculty BUT for their support and co
 ## Usage
 To engage with the repository:
 ```sh
-git clone https://github.com/<samiazt>/ML-at-Brno.git
-cd ML-at-Brno
+git clone https://github.com/<samiazt>/MLatBrno.git
+cd MLatBrno
